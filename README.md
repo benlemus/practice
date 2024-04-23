@@ -1,22 +1,7 @@
-# I did it!
+If you are reading this then you have found the master but I initially made the changingTextColor branch my default. I wasn't sure if I was going to push the master branch but hey, I guess I did. The more practice the better.
+The changingTextColor branch has a better readme... sorry
 
-if you are reading this then that means I have successfully added 2 branches to this repo from WSL terminal. 
+## update:
 
-## Branches:
-### changingTextColor
-### master
-
-If you are reading this then I can successfully make a readme file even though I do not know the proper formatting... yet...
-
-Thank you, goodbye... for now...
-
-ps I am now going to attempt to pull this readme file through my terminal.
-
-### edit
-I have pulled this file but I found a couple mistakes:
-  - I initially made this file in the changingTextColor branch on Github.
-  - I pulled this branch to my master branch in my terminal... whoops
-
-## Remember:
-  - Be in the correct branch on Github
-  - Be in the correct branch in terminal
+don't know what I am doing.
+I cannot figure out how to push and pull only from a specific branch in Github, if that is even a thing...
