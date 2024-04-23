@@ -27,3 +27,4 @@ I have pulled this file but I found a couple mistakes:
 - Be in the correct branch in terminal
 
 # making a change to pull
+it did not work... figuring it out
