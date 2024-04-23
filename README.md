@@ -5,3 +5,7 @@ The changingTextColor branch has a better readme... sorry
 
 don't know what I am doing.
 I cannot figure out how to push and pull only from a specific branch in Github, if that is even a thing...
+
+# UPDATE:
+
+wow I just looked back over the video and jeez what a noob mistake... I figured it all out... I got this now.
