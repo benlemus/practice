@@ -20,3 +20,9 @@ I have pulled this file but I found a couple mistakes:
 ## Remember:
   - Be in the correct branch on Github
   - Be in the correct branch in terminal
+
+### syntax:
+  -remember when pulling: git pull ["origin" or whatever name for ssh link] [branch name]
+  -remember when pushing: git pull ["origin" or whatever name for ssh link] [branch name]
+  -check remotes: git remote -v
+  
